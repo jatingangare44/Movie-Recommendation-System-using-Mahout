@@ -112,5 +112,5 @@ This project is licensed under the MIT License.
 
 ## 🙌 Author
 **Jatin Gangare**  
-📧 [your-email@example.com]  
+📧 [jatingangare44@gmai.com]  
 🔗 [GitHub Profile](https://github.com/jatingangare44)
